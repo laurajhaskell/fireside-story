@@ -1,10 +1,10 @@
 body {
   color: rgb(106, 196, 118);
   background-color: #333;
-  font-family: 'Sacramento', cursive;
-  font-size: 32px;
-  margin-top: 5%;
-  margin-left: 20%;
-  margin-right: 20%;
-  
+  font-size: 150%;
+  font-family: 'Lobster', cursive;
+  margin: 5em 25%;
+}
+p {
+  color: red;
 }
